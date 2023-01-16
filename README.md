@@ -1,6 +1,11 @@
 # hand_control_contest
 [월간 데이콘 TV 손동작 제어 인식 AI 경진대회](https://dacon.io/competitions/official/236050/overview/description)
 
+![image](https://user-images.githubusercontent.com/101409953/212703220-a8db6c10-7ac5-44c3-9450-f4467a2fc845.png)
+
+
+아주대 김한솔, 방범하, 신민경, 최창우, 이가은 참여
+
 영상에 있는 손동작을 통해 TV를 제어합니다.
 CSV파일에는 예측해야하는 label이 총 5가지 있습니다.
 
